@@ -4,4 +4,4 @@ second_number = 2
 sum = first_number + second_number
 diffrent = first_number - second_number
 product = first_number * second_number
-qu
+quotient = first_number / second_number
